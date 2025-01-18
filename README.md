@@ -1,1 +1,3 @@
 # GameHub
+
+# Penentuan ide proyek
