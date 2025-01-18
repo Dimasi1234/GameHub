@@ -10,23 +10,32 @@ Tujuan utama dari proyek ini adalah menciptakan platform game yang user-friendly
 Daftar fitur utama yang akan dikembangkan pada proyek ini:
 
 • Katalog Game: Pengguna dapat melihat dan mencari berbagai macam game.
+
 • Profil Pengguna: Setiap pengguna dapat membuat dan mengelola profil pribadi.
+
 • Sistem Rating dan Review: Pengguna dapat memberikan rating dan ulasan untuk setiap game.
+
 • Leaderboard: Menyediakan peringkat untuk menambah aspek kompetitif antar pengguna.
+
 •	Chat dan Forum: Memungkinkan interaksi antar pengguna.
 <h3>Skenario alur</h3>
 Detail Alur Penggunaan Platform GameHub :
 
 •	Langkah 1: Registrasi dan Login
 Pengguna baru akan diminta untuk mendaftar dengan mengisi formulir registrasi. Pengguna yang sudah terdaftar dapat langsung login menggunakan email dan password.
+
 •	Langkah 2: Eksplorasi Katalog Game
 Setelah login, pengguna akan diarahkan ke halaman utama yang menampilkan katalog game. Pengguna dapat mencari game berdasarkan kategori, popularitas, atau rekomendasi.
+
 •	Langkah 3: Melihat Detail Game
 Pengguna dapat mengklik salah satu game untuk melihat detailnya, termasuk deskripsi, rating, ulasan pengguna lain, dan trailer.
+
 •	Langkah 4: Menambahkan ke Favorit atau Mulai Bermain
 Pengguna dapat menambahkan game ke daftar favorit mereka atau langsung mulai bermain jika game tersebut terintegrasi dengan platform.
+
 •	Langkah 5: Berinteraksi dengan Komunitas
 Pengguna dapat memberikan rating dan ulasan pada game, serta bergabung dalam forum diskusi atau chat dengan pengguna lain.
+
 •	Langkah 6: Mengelola Profil
 Pengguna dapat mengakses profil mereka untuk mengelola informasi pribadi, melihat statistik bermain, dan mengatur preferensi.
 
