@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Detail Section</title>
+    <link rel="stylesheet" href="css/gamestyle.css">
+</head>
+<header>
+    <div class="navbar">
+        <div class="logo">Game<span>Hub</span></div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#Support">Support</a></li>
+                <li><a href="#Cart">Cart (<span id="cart-indicator">0</span>)</a></li>
+                <li><a href="#Wishlist">Wishlist (<span id="wishlist-indicator">0</span>)</a></li>
+            </ul>
+        </nav>
+        <div class="auth-lang">
+            <a href="form.html"><button class="sign-in">Sign In</button></a>
+            <div class="language-dropdown">
+                <button class="language-btn">EN</button>
+                <div class="language-menu">
+                    <a href="#">EN</a>
+                    <a href="#">ID</a>
+                    <a href="#">ES</a>
+                </div>
+            </div>
+        </div>
+        <div class="menu-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</header>
+
+<body>
+    <section class="home">
+        <div class="searchBox">
+            <i class='bx bx-search'></i>
+            <input type="text" class="search" placeholder="Search">
+        </div>
+        <div class="nav">
+            <a href="" class="active">Discover</a>
+            <a href="">Browser</a>
+            <a href="">News</a>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="detail">
+            <div class="detail-main">
+                <div class="slider-container">
+                    <button class="slider-btn prev">&lt;</button>
+                    <div class="slider">
+                        <img src="image/gran-saga.jpg" alt="Game Image">
+                        <video controls>
+                            <source src="image/gran-saga.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                    <button class="slider-btn next">&gt;</button>
+                </div>
+                <div class="description">
+                    <h2>Gran Saga</h2>
+                    <p>Game wibu</p>
+                </div>
+                <div class="rating">
+                    <span>⭐ 4.8</span>
+                    <p>Action, Adventure</p>
+                </div>
+            </div>
+            <aside class="aside">
+                <div class="price">$29.99</div>
+                <div class="buttons">
+                    <button class="add-to-wishlist">Add to wishlist</button>
+                    <button class="add-to-cart">Add to Cart</button>
+                    <button class="buy-now">Buy Now</button>
+                </div>
+                <div class="specs">
+                    <h4>Specifications:</h4>
+                    <ul>
+                        <li>OS: Windows 10</li>
+                        <li>Processor: Intel i5</li>
+                        <li>Memory: 8GB RAM</li>
+                        <li>Graphics: NVIDIA GTX 960</li>
+                        <li>Storage: 50GB available space</li>
+                    </ul>
+                </div>
+            </aside>
+        </div>
+    </section>
+    <script src="js/game.js"></script>
+</body>
+
+</html>
