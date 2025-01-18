@@ -7,7 +7,7 @@ GameHUB adalah platform yang bertujuan untuk menyatukan komunitas gamer, memberi
 <h3>Tujuan proyek</h3>
 Tujuan utama dari proyek ini adalah menciptakan platform game yang user-friendly, interaktif, dan dapat diakses oleh semua kalangan gamer. Platform ini akan menampilkan berbagai fitur menarik untuk meningkatkan pengalaman pengguna, seperti koleksi game terkurasi, profil pengguna, dan integrasi media sosial.
 <h3>Fitur utama</h3>
-Daftar fitur utama yang akan dikembangkan pada proyek ini:
+Daftar fitur utama yang akan dikembangkan pada proyek ini:/
 •	Katalog Game: Pengguna dapat melihat dan mencari berbagai macam game.
 •	Profil Pengguna: Setiap pengguna dapat membuat dan mengelola profil pribadi.
 •	Sistem Rating dan Review: Pengguna dapat memberikan rating dan ulasan untuk setiap game.
